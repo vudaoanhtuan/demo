@@ -1,4 +1,2 @@
 Hello from vudaoanhtuan
-Hello hello
-Hello from anhtuanvudao
-Hello
+This is vudaoanhtuan
